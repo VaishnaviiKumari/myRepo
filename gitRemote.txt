@@ -1,1 +1,3 @@
 dummy changes
+
+I can add new changes.
